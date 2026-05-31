@@ -33,6 +33,19 @@ All required files (`vmm.dll`, `leechcore.dll`, `FTD3XX.dll`) are included in th
 
 > **License notice:** MemProcFS is released under **AGPL‑3.0**. Using these DLLs binds you to its terms.
 
+## Why I can't actively develop this project anymore
+
+I'm just an ordinary guy from Russia.  
+Lately, I've been exhausted by constant internet disruptions, endless workarounds, and fighting with blocked services just to stay online.  
+
+I'm tired of this shit, honestly.  
+I still love the idea behind this project, but I no longer have the energy to keep pushing through all the external crap.
+
+If you find this useful and want to support me — it would really help.  
+Not just for development, but just to get by.
+
+Thank you for understanding.
+
 ## ❤️ Support
 
 If you'd like to support me:
